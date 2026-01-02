@@ -1,0 +1,38 @@
+# data type in python
+
+# int data type
+a = 10
+
+# float data type
+b = 10.5
+
+#string data type
+c = "wonderfull"
+
+#boolean 
+
+d = true # or false
+
+# input output operation in python
+
+#for taking input from user 
+
+x = input("enter the name : ")
+
+# for taking integer as input we need to type cast the input value and store as int
+
+y = int(input("enter the age  : "))
+
+# for disply the output of program we use print
+
+print(x)
+
+print(y)
+
+#also can print the type of the variable
+
+print(type(X))
+
+# we also use f-string
+
+print(f"my name is {x}and my age is {y}")
